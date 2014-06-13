@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-breton
 Version:	20131013
-Release:	5
+Release:	6
 Summary:	TeXLive babel-breton package
 Group:		Publishing
 URL:		http://tug.org/texlive
