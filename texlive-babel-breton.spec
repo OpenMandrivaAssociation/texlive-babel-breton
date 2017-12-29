@@ -1,12 +1,6 @@
-# revision 30257
-# category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-babel-breton
-Version:	20131013
-Release:	9
+Version:	1.0h
+Release:	1
 Summary:	TeXLive babel-breton package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -32,11 +26,10 @@ TeXLive babel-breton package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/generic/babel-breton/breton.ldf
-%doc %{_texmfdistdir}/doc/generic/babel-breton/breton.pdf
+%{_texmfdistdir}/tex/generic/babel-breton
+%doc %{_texmfdistdir}/doc/generic/babel-breton
 #- source
-%doc %{_texmfdistdir}/source/generic/babel-breton/breton.dtx
-%doc %{_texmfdistdir}/source/generic/babel-breton/breton.ins
+%doc %{_texmfdistdir}/source/generic/babel-breton
 
 #-----------------------------------------------------------------------
 %prep
