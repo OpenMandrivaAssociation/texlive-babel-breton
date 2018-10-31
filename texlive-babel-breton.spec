@@ -1,6 +1,6 @@
 Name:		texlive-babel-breton
 Version:	1.0h
-Release:	1
+Release:	2
 Summary:	TeXLive babel-breton package
 Group:		Publishing
 URL:		http://tug.org/texlive
